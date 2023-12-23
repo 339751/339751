@@ -1,7 +1,9 @@
 #Salve, Mário Sérgio aqui!
 
 💻 Estudo HTML e CSS!
+
 🎥 Trabalho com edição de vídeos!
+
 🔮 Estudo algumas A.I. com Leonardo.ai e elevenlabs!
 
 <div style="display: inline_block"><br>
